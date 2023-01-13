@@ -5,7 +5,7 @@ function limps() {
 
 function insert(num) {
     //escreve dentro do inpu => .value
-    var numero = document.getElementById('resp').value + ' ';
+    var numero = document.getElementById('resp').value;
     document.getElementById('resp').value = numero + num;
 };
 
@@ -20,6 +20,6 @@ function calcular() {
 
 
 
-
+//33
 
 
