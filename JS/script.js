@@ -18,8 +18,3 @@ function calcular() {
     
 };
 
-
-
-//33
-
-
